@@ -1,0 +1,15 @@
+
+body{
+    /* background-image:url(../../bg.jpg); */
+    background-size: cover;
+   
+background: linear-gradient(to right, #7BC6CC, #BE93C5); 
+
+}
+
+.option{
+    height: 2rem;
+    width: auto;
+    background-color: rgba(red, green, blue, alpha);
+    border-radius: 8px ;
+}
